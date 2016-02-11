@@ -1,0 +1,28 @@
+_repo: Peloponneesolais-sota_50065
+contributor:
+  translator:
+    agent_name: Hårdh, Emil
+    gutenberg_agent_id: '45688'
+    url: http://www.gutenberg.org/2009/agents/45688
+creator:
+  author:
+    agent_name: Thucydides
+    aliases:
+    - Θουκιδίδης
+    - Θουκυδίδης
+    birthdate: -460
+    deathdate: -395
+    gutenberg_agent_id: '2352'
+    url: http://www.gutenberg.org/2009/agents/2352
+    wikipedia: http://en.wikipedia.org/wiki/Thucydides
+description: ''
+gutenberg_issued: '2015-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50065'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Peloponneesolais-sota
+url: http://www.gutenberg.org/ebooks/50065
