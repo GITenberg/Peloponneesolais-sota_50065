@@ -1,9 +1,13 @@
 _repo: Peloponneesolais-sota_50065
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hårdh, Emil
     gutenberg_agent_id: '45688'
     url: http://www.gutenberg.org/2009/agents/45688
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thucydides
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2352
     wikipedia: http://en.wikipedia.org/wiki/Thucydides
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50065#Peloponneesolais-sota
 gutenberg_issued: '2015-09-27'
 gutenberg_type: Text
 identifiers:
